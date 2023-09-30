@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AhmdHij
 - 👀 I’m interested in Business and Technology
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a Senior IT Bachelor's student in Kaunas University Of Technology
 - 📫 How to reach me: ahmadhijazi776@gmail.com
 
 <!---
