@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmdHij
 - 👀 I’m interested in Business and Technology
-- 🌱 I’m a Senior IT Bachelor's student in Kaunas University Of Technology
+- 🌱 I’m a Artificial Intelligence doctoral researcher at IMDEA Energia in Madrid.
 - 📫 How to reach me: ahmadhijazi776@gmail.com
 
 <!---
